@@ -1,5 +1,5 @@
 # Projeto
-![Flutter]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Introdução
 Esse é um simples projeto para introdução de conceitos básicos de flutter desenvolvido pela equipe de treinamento da PITMED 2023.1.
